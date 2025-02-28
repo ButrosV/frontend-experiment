@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
@@ -91,3 +92,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# frontend-experiment
+>>>>>>> b023a4ea269a210954e8d2c4cb62c04036a1f5c9
