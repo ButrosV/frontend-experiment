@@ -54,7 +54,7 @@ To use this project, you can either clone the repository or download the zip fil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-preview-card.git
+   git clone git@github.com:ButrosV/frontend-experiment.git
    ```
 
 2. Navigate into the project directory:
